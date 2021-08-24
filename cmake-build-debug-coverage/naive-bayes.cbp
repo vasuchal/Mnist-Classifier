@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="naive-bayes"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\proj\;CMake Files\..\..\proj\cmake\;CMake Files\..\..\proj\cmake\modules\;CMake Files\..\..\lib\;CMake Files\..\..\lib\macosx\;CMake Files\..\..\lib\macosx\Debug\;CMake Files\..\..\cmake-build-debug\;CMake Files\..\..\cmake-build-debug\lib\;CMake Files\..\..\cmake-build-debug\lib\macosx\;CMake Files\..\..\cmake-build-debug\lib\macosx\Debug\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sketchpad-classifier">
+				<Option output="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Debug/sketchpad-classifier/sketchpad-classifier.app/Contents/MacOS/sketchpad-classifier" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="0"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DFT2_BUILD_LIBRARY"/>
+					<Add option="-DFT_DEBUG_LEVEL_TRACE"/>
+					<Add directory="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/include"/>
+					<Add directory="/Users/vasudhachalasani/CLionProjects/Cinder/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 sketchpad-classifier"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sketchpad-classifier/fast">
+				<Option output="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Debug/sketchpad-classifier/sketchpad-classifier.app/Contents/MacOS/sketchpad-classifier" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="0"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DFT2_BUILD_LIBRARY"/>
+					<Add option="-DFT_DEBUG_LEVEL_TRACE"/>
+					<Add directory="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/include"/>
+					<Add directory="/Users/vasudhachalasani/CLionProjects/Cinder/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 sketchpad-classifier/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="train-model">
+				<Option output="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/train-model" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 train-model"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="train-model/fast">
+				<Option output="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/train-model" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 train-model/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="naive-bayes-test">
+				<Option output="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Debug/naive-bayes-test/naive-bayes-test.app/Contents/MacOS/naive-bayes-test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="0"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DFT2_BUILD_LIBRARY"/>
+					<Add option="-DFT_DEBUG_LEVEL_TRACE"/>
+					<Add directory="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/include"/>
+					<Add directory="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/_deps/catch2-src/single_include"/>
+					<Add directory="/Users/vasudhachalasani/CLionProjects/Cinder/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 naive-bayes-test"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="naive-bayes-test/fast">
+				<Option output="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Debug/naive-bayes-test/naive-bayes-test.app/Contents/MacOS/naive-bayes-test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="0"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DFT2_BUILD_LIBRARY"/>
+					<Add option="-DFT_DEBUG_LEVEL_TRACE"/>
+					<Add directory="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/include"/>
+					<Add directory="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/_deps/catch2-src/single_include"/>
+					<Add directory="/Users/vasudhachalasani/CLionProjects/Cinder/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 naive-bayes-test/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/apps/cinder_app_main.cc">
+			<Option target="sketchpad-classifier"/>
+		</Unit>
+		<Unit filename="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/apps/train_model_main.cc">
+			<Option target="train-model"/>
+		</Unit>
+		<Unit filename="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/src/core/image_classifier.cc">
+			<Option target="sketchpad-classifier"/>
+			<Option target="train-model"/>
+			<Option target="naive-bayes-test"/>
+		</Unit>
+		<Unit filename="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/src/core/image_processor.cc">
+			<Option target="sketchpad-classifier"/>
+			<Option target="train-model"/>
+			<Option target="naive-bayes-test"/>
+		</Unit>
+		<Unit filename="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/src/core/model.cc">
+			<Option target="sketchpad-classifier"/>
+			<Option target="train-model"/>
+			<Option target="naive-bayes-test"/>
+		</Unit>
+		<Unit filename="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/src/visualizer/naive_bayes_app.cc">
+			<Option target="sketchpad-classifier"/>
+			<Option target="naive-bayes-test"/>
+		</Unit>
+		<Unit filename="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/src/visualizer/sketchpad.cc">
+			<Option target="sketchpad-classifier"/>
+			<Option target="naive-bayes-test"/>
+		</Unit>
+		<Unit filename="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/tests/classifier_tests.cc">
+			<Option target="naive-bayes-test"/>
+		</Unit>
+		<Unit filename="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/tests/test_main.cc">
+			<Option target="naive-bayes-test"/>
+		</Unit>
+		<Unit filename="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/tests/training_model_tests.cc">
+			<Option target="naive-bayes-test"/>
+		</Unit>
+		<Unit filename="/Users/vasudhachalasani/CLionProjects/Cinder/samples/data/CinderApp.icns">
+			<Option target="sketchpad-classifier"/>
+			<Option target="naive-bayes-test"/>
+		</Unit>
+		<Unit filename="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/../../proj/cmake/configure.cmake">
+			<Option virtualFolder="CMake Files\..\..\proj\cmake\"/>
+		</Unit>
+		<Unit filename="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/../../proj/cmake/utilities.cmake">
+			<Option virtualFolder="CMake Files\..\..\proj\cmake\"/>
+		</Unit>
+		<Unit filename="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/../../proj/cmake/modules/cinderMakeApp.cmake">
+			<Option virtualFolder="CMake Files\..\..\proj\cmake\modules\"/>
+		</Unit>
+		<Unit filename="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/../../lib/macosx/Debug/cinderConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\lib\macosx\Debug\"/>
+		</Unit>
+		<Unit filename="/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/../../cmake-build-debug/lib/macosx/Debug/cinderTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\cmake-build-debug\lib\macosx\Debug\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

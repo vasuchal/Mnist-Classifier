@@ -1,0 +1,5 @@
+/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir
+/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/CMakeFiles/sketchpad-classifier.dir
+/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
+/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/CMakeFiles/train-model.dir
+/Users/vasudhachalasani/CLionProjects/Cinder/my-projects/naive-bayes-vasuchal/cmake-build-debug-coverage/CMakeFiles/naive-bayes-test.dir
